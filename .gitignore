@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+.pytest_cashe/
+.idea/
+pages/__pycache__/
