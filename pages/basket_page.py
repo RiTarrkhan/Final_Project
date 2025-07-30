@@ -1,6 +1,5 @@
 from .base_page import BasePage
 from .locators import BasketPageLocators
-import time
 
 class BasketPage(BasePage):
     def go_to_basket(self):
